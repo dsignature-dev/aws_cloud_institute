@@ -1,0 +1,13 @@
+2024-02-20 20:30:03,626 ERROR User did not enter a common between numbers
+2024-02-20 20:30:03,626 INFO Try again
+2024-02-20 20:30:46,468 ERROR User did not enter a common between numbers
+2024-02-20 20:30:46,468 INFO Function returna Try again
+2024-02-20 20:32:36,396 ERROR User did not enter a common between numbers
+2024-02-20 20:32:36,397 INFO Function returns Try again
+2024-02-20 20:32:53,618 INFO user input is 3 items long
+2024-02-20 20:36:08,119 INFO user input is 3 items long
+2024-02-20 20:36:08,120 INFO function returns %s, num_list
+2024-02-20 20:36:33,944 INFO user input is 3 items long
+2024-02-20 20:36:33,945 INFO function returns [9, 8, 7]
+2024-02-20 20:36:53,160 INFO user input is 3 items long
+2024-02-20 20:36:53,160 INFO function returns [3, 45, 5]
